@@ -1,2 +1,4 @@
 # hello-world
-guides
+
+hi!
+frances here, I am starting learning java.
